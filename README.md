@@ -1,1 +1,11 @@
-# svelte-advent
+- Svelte CLI
+- Creating components
+- Nested components
+- {@html ...}
+- Error Boundaries
+- Runes
+- State
+
+- SvelteKit
+- Routing
+- Layouts
